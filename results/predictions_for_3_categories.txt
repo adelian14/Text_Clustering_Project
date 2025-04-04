@@ -1,0 +1,11 @@
+Predicted category using (Vectorization, t-SNE and KMeans) for "Computer graphics is a field focused on generating and manipulating visual content using computational techniques.
+It involves concepts like rasterization, rendering, shading, and texture mapping to create realistic or stylized images.
+Technologies such as OpenGL and DirectX enable hardware-accelerated graphics, while transformations, projections,
+and matrices support 2D and 3D modeling. Advanced topics include ray tracing,
+anti-aliasing, GPU programming, and real-time animation for simulations, video games, and visual effects." is (comp.graphics)
+
+Predicted category using (Vectorization, PCA and KMeans) for "Computer graphics is a field focused on generating and manipulating visual content using computational techniques.
+It involves concepts like rasterization, rendering, shading, and texture mapping to create realistic or stylized images.
+Technologies such as OpenGL and DirectX enable hardware-accelerated graphics, while transformations, projections,
+and matrices support 2D and 3D modeling. Advanced topics include ray tracing,
+anti-aliasing, GPU programming, and real-time animation for simulations, video games, and visual effects." is (comp.graphics)
